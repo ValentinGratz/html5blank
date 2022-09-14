@@ -122,13 +122,13 @@
     "modernizr": "gulp modernizr"
   },
   "dependencies": {
-    "modernizr": "^3.5.0",
+    "modernizr": "^3.12.0",
     "normalize.css": "^7.0.0",
     "npm": "^6.14.6"
   },
   "devDependencies": {
     "del": "^3.0.0",
-    "gulp": "^3.6.0",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^4.1.0",
     "gulp-concat": "^2.3.4",
     "gulp-csso": "^3.0.1",
@@ -140,7 +140,7 @@
     "gulp-template": "^5.0.0",
     "gulp-uglify": "^3.0.0",
     "jquery": "^3.5.0",
-    "jshint": "^2.9.4",
+    "jshint": "^2.13.5",
     "jshint-stylish": "^2.2.1"
   },
   "engines": {
